@@ -1,0 +1,6 @@
+{
+  "name": "ZAN WEB SERVER - Android Control Panel",
+  "description": "Desain aplikasi Android APK control panel localhost (MejaPHP/ZAN WEB SERVER) dengan tema dark mission-control, runtime PHP switcher, dan Google Stitch prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
